@@ -1,8 +1,8 @@
 import random
 random_number = random.randint(1, 12)
 print(random_number)
-name = "Damian"
-question = "Will Vinnny give you your job back?"
+name = "Eric"
+question = "Will it rain tomorrow?"
 answer = "Yes" or "No"
 if random_number == 1:
   answer = "Yes - definitely."

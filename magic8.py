@@ -3,7 +3,7 @@ import random
 random_number = random.randint(1, 12)
 print(random_number)
 name = "Eric"
-question = "Will I win the lottery?"
+question = "Will there be thunderstorms today?"
 answer = ""
 #If user does not provide a name code below will run
 if len(name) == 0:

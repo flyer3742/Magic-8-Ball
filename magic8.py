@@ -1,7 +1,6 @@
 #Randomizer to randomly selects a number 
 import random
 random_number = random.randint(1, 12)
-print(random_number)
 name = "Eric"
 question = "Will there be thunderstorms today?"
 answer = ""

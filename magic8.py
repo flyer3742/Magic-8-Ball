@@ -1,8 +1,8 @@
 #Randomizer to randomly selects a number 
 import random
 random_number = random.randint(1, 12)
-name = "Damian"
-question = "Will there be thunderstorms today?"
+name = "Eric"
+question = "Will there be rain today?"
 answer = ""
 #If user does not provide a name code below will run
 if len(name) == 0:

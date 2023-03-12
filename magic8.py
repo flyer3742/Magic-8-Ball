@@ -39,7 +39,7 @@ elif random_number == 10:
 elif random_number == 11:
   answer = "It looks hopeful."
 elif random_number == 12:
-  answer = "You can count on it!"
+  answer = "You can count on it!!"
 else:
    answer = "Error"
 print("Magic 8-Ball's answer: " + answer)

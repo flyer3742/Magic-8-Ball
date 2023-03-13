@@ -2,7 +2,7 @@
 import random
 random_number = random.randint(1, 12)
 name = "Eric"
-question = "Will there be rain today?"
+question = "Will it snow today?"
 answer = ""
 #If user does not provide a name code below will run
 if len(name) == 0:
